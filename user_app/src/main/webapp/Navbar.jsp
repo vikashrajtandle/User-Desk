@@ -61,11 +61,17 @@ ul li a:hover{
 .logout:hover{
     background-color: #e60000;
 }
+
+.app_name{
+	display: inline-block;
+	font-family: cursive;
+	font-size: 30px;
+}
 </style>
 </head>
 <body>
 <div class="container">
-    <div class="logo">MyApp</div>
+    <div class="logo"><img src="https://png.pngtree.com/png-vector/20231213/ourmid/pngtree-user-icon-in-hand-drawn-style-vector-png-image_11259911.png" height="30px" width="30px"><h1 class="app_name">User Desk</h1></div>
 
     <ul>
         <li><a href="index.jsp">Home</a></li>
