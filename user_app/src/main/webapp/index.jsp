@@ -119,7 +119,7 @@ body{
             <h3>Edit Users</h3>
             <p>Modify user details, permissions, and roles.</p>
         </div>
-        
+       
         <!-- Card 4: Search Users -->
         <div class="user-card">
             <span class="card-icon">&#128269;</span> <!-- Search icon -->
